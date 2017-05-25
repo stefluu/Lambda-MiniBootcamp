@@ -1,0 +1,134 @@
+html, body {
+ height: 100%;
+ width: 100%;}
+
+.jumbotron{
+	height: 600px;
+	background-image: url("background-img.jpg");
+	color: white;
+	font-family: "Open Sans", ,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.topbuttons{
+	height: 200px;
+	width: 100%;
+}
+
+.container{
+	padding-top: 100px;
+	margin: auto;
+	height: 500px;
+	width: 750px;
+	text-align: left;
+}
+
+.row{
+	postion: absolute;
+	margin-top: 0px;
+}
+.col-3{
+	float: right;
+	font-weight: 800;
+	font-size: 12px;
+	margin: -25px 20px 10px 20px;
+
+}
+
+#contact{
+	padding-right: 10px;
+}
+
+.btn{
+	color: white;
+	position: absolute;
+	margin-left: 5px;
+	margin-top: -37px;
+	font-weight: 900;
+	font-size: 17px;
+}
+
+.line1{
+	font-weight:800;
+	font-size: 55px;
+}
+
+.line2{
+	font-size: 30px;
+	font-weight: 525;
+	margin-top: -2px;
+}
+
+.line3{
+	font-size: 21px;
+	font-weight: 200;
+	font-style: italic;
+	margin-top: 25px;
+	font-family: Lora,'Times New Roman',serif;
+}
+
+p{
+	margin-bottom:30px;
+}
+
+.text{
+	width: 48%;
+	margin: auto;
+	text-align: left;
+	font-family: Lora,'Times New Roman',serif;
+    font-size: 23px;
+}
+
+
+.first{
+	margin-top:80px;
+}
+
+h1{
+	font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 35px;
+	margin-top: 55px;
+	margin-bottom:30px;
+}
+
+.blockquote{
+	color: grey;
+	font-size: 19.5px;
+	font-style: italic;
+}
+
+h6{
+	color: grey;
+	font-style: italic;
+	text-align: center;
+	font-size: 14.7px;
+	margin-bottom: 50px;
+}
+
+.link{
+	text-decoration: underline;
+	color: black;
+}
+
+.finalp{
+	margin-bottom: 125px;
+}
+
+.containerlast{
+	margin-right: 270px;
+}
+
+.col-4{
+	margin: 0px 10px 0px 10px;
+}
+
+.col-4{
+	float: right;
+}
+
+.copyright{
+	color: grey;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 25px;
+}
