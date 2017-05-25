@@ -1,0 +1,39 @@
+
+html, body{ <!--makes the 100% apply to the entire web page. need put width before height below to make work-->
+  width: 100%;
+  height: 100%;
+ }
+ 
+ .red{
+  background: red;
+  height: 20%; <!--implied width is 100%-->
+   }
+
+.blue{
+	background: blue;
+	width: 33.3%;
+	height: 100%;
+	float: left; <!--moves the element to the left-->
+}
+
+.yellow{
+	background: yellow;
+	width: 33.3%;
+	height: 100%;
+	float: right; <!--moves element to the right-->
+}
+
+.purple{
+	background: purple;
+	width: 100%;
+	height: 100%;
+	margin: auto; <!--moves element to the center-->
+}
+
+
+
+.green{
+	background: green;
+	width: 100%;
+	height: 20%;
+}
