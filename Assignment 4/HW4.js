@@ -1,4 +1,4 @@
-document.body.style.background = "red"; //document indictes to look at document. body indicates look at body? this change background color to red//
+document.body.style.background = "red"; 
 
 document.querySelector("h1").style.background ="blue"
 
